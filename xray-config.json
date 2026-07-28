@@ -10,12 +10,6 @@
             "settings": {
                 "udp": true
             }
-        },
-        {
-            "listen": "127.0.0.1",
-            "port": 1081,
-            "protocol": "http",
-            "settings": {}
         }
     ],
     "outbounds": [
@@ -24,11 +18,11 @@
             "settings": {
                 "vnext": [
                     {
-                        "address": "179.191.168.33",
+                        "address": "azion.com.br",
                         "port": 443,
                         "users": [
                             {
-                                "id": "e30b8dc3-ed92-476f-ab42-ef95edc1d7c8",
+                                "id": "0265c394-17ab-4130-85a6-63ff76a5c4e0",
                                 "encryption": "none",
                                 "flow": ""
                             }
@@ -40,12 +34,12 @@
                 "network": "xhttp",
                 "security": "tls",
                 "tlsSettings": {
-                    "serverName": "app.tim.com.br",
+                    "serverName": "www.tim.com.br",
                     "fingerprint": "chrome",
                     "pinnedPeerCertSha256": "0d9bfecea1489d8fcddbb2a66a83504895d23e23690d969521ec156337ad1a9c"
                 },
                 "xhttpSettings": {
-                    "host": "j7a9hucbypk.map.azionedge.net",
+                    "host": "Sarahconect.azion.app",
                     "path": "/"
                 }
             }
