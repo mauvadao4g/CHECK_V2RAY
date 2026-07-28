@@ -1,0 +1,10 @@
+Xray 26.3.27 (Xray, Penetrates Everything.) d2758a0 (go1.26.1 linux/amd64)
+A unified platform for anti-censorship.
+2026/07/27 22:14:11.964736 [Info] infra/conf/serial: Reading config: &{Name:/home/everton-rozendo/V2RAY/xray-config.json Format:json}
+2026/07/27 22:14:11.966319 [Warning] core: Xray 26.3.27 started
+2026/07/27 22:14:16.706358 from tcp:127.0.0.1:48044 accepted tcp:api.ipify.org:443
+2026/07/27 22:14:18.981502 from tcp:127.0.0.1:48048 accepted tcp:api.ipify.org:443
+2026/07/27 22:14:21.487858 from tcp:127.0.0.1:48050 accepted tcp:api.ipify.org:443
+2026/07/27 22:14:22.811309 from tcp:127.0.0.1:48060 accepted tcp:api.ipify.org:443
+2026/07/27 22:14:24.550660 from tcp:127.0.0.1:56092 accepted tcp:api.ipify.org:443
+2026/07/27 22:14:28.254580 from tcp:127.0.0.1:56102 accepted tcp:api.ipify.org:443

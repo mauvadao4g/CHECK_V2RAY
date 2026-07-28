@@ -1,0 +1,54 @@
+{
+    "log": {
+        "loglevel": "warning"
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 1080,
+            "protocol": "socks",
+            "settings": {
+                "udp": true
+            }
+        },
+        {
+            "listen": "127.0.0.1",
+            "port": 1081,
+            "protocol": "http",
+            "settings": {}
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "179.191.168.33",
+                        "port": 443,
+                        "users": [
+                            {
+                                "id": "e30b8dc3-ed92-476f-ab42-ef95edc1d7c8",
+                                "encryption": "none",
+                                "flow": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "xhttp",
+                "security": "tls",
+                "tlsSettings": {
+                    "serverName": "app.tim.com.br",
+                    "fingerprint": "chrome",
+                    "pinnedPeerCertSha256": "0d9bfecea1489d8fcddbb2a66a83504895d23e23690d969521ec156337ad1a9c"
+                },
+                "xhttpSettings": {
+                    "host": "j7a9hucbypk.map.azionedge.net",
+                    "path": "/"
+                }
+            }
+        }
+    ]
+}
