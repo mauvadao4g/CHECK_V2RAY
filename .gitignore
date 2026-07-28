@@ -1,5 +1,6 @@
 xray.log
 xray-active-config
+.xray-active-config
 xray.pid
 venv
 .venv
