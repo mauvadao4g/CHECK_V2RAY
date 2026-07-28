@@ -6,8 +6,9 @@
 CONFIG='new.json'
 # jq . $CONFIG
 
-U="0265c394-17ab-4130-85a6-63ff76a5c4e0" # v2rUserId
-H="meu.host.com" # v2rHttpHost
+D="hrdwffha4vc.map.azionedge.net"
+U="e30b8dc3-ed92-476f-ab42-ef95edc1d7c8" # v2rUserId
+H="hrdwffha4vc.map.azionedge.net" # v2rHttpHost
 S="www.tim.com.br" # v2rTlsSni
 P=443
 
