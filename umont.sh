@@ -1,5 +1,6 @@
 #!/bin/bash
 
+[[ "$1" == '--info' || "$1" == '-h' ]] && echo "Usage: $0 <v2rUserId> <v2rHttpHost> <v2rTlsSni> <v2rPort>" && exit 1
 
 
 CONFIG='new.json'
@@ -30,3 +31,6 @@ jq \
 .v2rTlsSni   = $sni |
 .v2rPort     = $port
 ' new.json
+
+
+
