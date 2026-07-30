@@ -7,7 +7,7 @@ vless://0265c394-17ab-4130-85a6-63ff76a5c4e0@azion.com.br:443?path=%2F&security=
 vless://@179.191.168.17:443?path=%2F&security=tls&encryption=none&host=hrdwffha4vc.map.azionedge.net&fp=chrome&type=xhttp&sni=www.tim.com.br
 
 
-
+vless://349082fc-1e5f-48de-8db9-4b82762045e7@ashen.bookcenter.lk:80?security=reality&encryption=none&pbk=YzaTJqLoMPZcblggodg0_UPwaXgHajCKMmhjHkyDRU0&headerType=none&fp=chrome&spx=%2F9c6f64e087806d6&type=tcp&flow=xtls-rprx-vision&sni=app.tim.com.br&sid=86a2f1#
 
 
 

@@ -1,0 +1,23 @@
+{
+    "configMessage": "❗𝙀𝙎𝙏𝙀 𝘼𝙍𝙌𝙐𝙄𝙑𝙊 𝙉𝘼𝙊 𝙀 𝙐𝙈 𝙏𝙀𝙎𝙏𝙀 𝘿𝙊 𝙎𝙀𝙍𝙑𝙄𝘿𝙊𝙍 𝙋𝙍𝙀𝙈𝙄𝙐𝙈\n\n🥇 𝘼𝘿𝙌𝙐𝙄𝙍𝘼 𝙊 𝙋𝙍𝙀𝙈𝙄𝙐𝙈\n\n✅ - INTERNET MAIS RÁPIDA\n✅ - LOGIN VÁLIDO POR 32 DIAS\n✅ - USUÁRIO PRIVADO\n✅ - JOGOS ONLINE LIBERADO\n✅ - GRUPO + SUPORTE 24 HRS \n✅ - APLICATIVO PRÁTICO E INTUITIVO\n✅- E MUITO MAIS VANTAGENS\n\n𝘼𝘿𝙌𝙐𝙄𝙍𝘼 𝘿𝙄𝙍𝙀𝙏𝘼𝙈𝙀𝙉𝙏𝙀 𝙉𝙊 𝘽𝙊𝙏 𝙊𝙐 𝙎𝙄𝙏𝙀 \n\n🤖BOTZAO ➡️ https://t.me/EXTERSSH1BR_BOT\n\n𝙎𝙐𝙋𝙊𝙍𝙏𝙀 𝘿𝙄𝙍𝙀𝙏𝘼𝙈𝙀𝙉𝙏𝙀 𝘾𝙊𝙈𝙄𝙂𝙊➘\n\n👤MEU PV➥ https://t.me/Exterminador_Ssh1\n=========================\n𝙉𝙊𝙎𝙎𝙊 𝘾𝘼𝙉𝘼𝙇 1⟱\nhttps://t.me/Cofildetunel\n\n𝙉𝙊𝙎𝙎𝙊 𝙂𝙍𝙐𝙋𝙊  2⟱\nhttps://t.me/Cofildetunnel\n\n𝙌𝙐𝘼𝙇𝙄𝘿𝘼𝘿𝙀 𝙀 𝙎𝙐𝙋𝙊𝙍𝙏𝙀 𝙀 𝙊 𝙈𝙀𝙐 𝙁𝙊𝙍𝙏𝙀!",
+    "configTimestamp": 0,
+    "configSalt": "",
+    "user": "Httpinjpl",
+    "port": 80,
+    "dnsType": 3,
+    "isPublicKey": false,
+    "localPort": 1080,
+    "remoteProxyAuth": false,
+    "configVersionCode": 0,
+    "remoteProxy": "162.159.140.159:80",
+    "configLockMobileOperatorId": "",
+    "password": "12345",
+    "configExpiryTimestamp": 0,
+    "isConfigLock": true,
+    "isDefaultRoute": true,
+    "sniHostname": "facebook.com",
+    "customDns1": "",
+    "host": "brasil.arnoldfree1.xyz",
+    "payload": "GET / HTTP/1.1 [crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+    "customDns2": ""
+}

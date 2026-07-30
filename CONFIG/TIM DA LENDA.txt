@@ -1,0 +1,49 @@
+HABIBIxNULLPTRO NPVT SCRIPT
+==============================
+
+{
+    "name": "Tim-LINSSH",
+    "address": "azion.com.br:443",
+    "type": "V2RAY",
+    "v2rayProfile": {
+        "configVersion": 4,
+        "configType": 5,
+        "subscriptionId": "",
+        "addedTime": 1785034742691,
+        "remarks": "Tim-LINSSH",
+        "server": "azion.com.br",
+        "serverPort": "443",
+        "password": "2c8683e3-1e20-4cb5-baf6-ec2a73f4bc26",
+        "method": "none",
+        "network": "xhttp",
+        "host": "mll4sau8fdu.map.azionedge.net",
+        "path": "/",
+        "mode": "auto",
+        "xhttpMode": "auto",
+        "xhttpExtra": "{\"mode\":\"auto\",\"xPaddingBytes\":\"100-1000\",\"xmux\":{\"cMaxReuseTimes\":0,\"hKeepAlivePeriod\":0,\"hMaxRequestTimes\":\"600-900\",\"hMaxReusableSecs\":\"1800-3000\",\"maxConcurrency\":\"\",\"maxConnections\":6}}",
+        "security": "tls",
+        "sni": "www.tim.com.br",
+        "alpn": "h2,http/1.1",
+        "fingerPrint": "chrome",
+        "insecure": true,
+        "v2rayJson": "",
+        "persistJson": true
+    },
+    "lockConfig": {
+        "version": 1,
+        "isLocked": true,
+        "password": "",
+        "onlyMobileNetwork": true,
+        "blockRootedAndJailbroken": false,
+        "onlyOfficialStores": false,
+        "expiryDate": "",
+        "deviceIds": "",
+        "message": "Servidor Brasileiro🇧🇷\n🟦Tim Válido e Expirado✅\n📹Youtube/Revanced ✅\n🍿Streamings ✅\n🎮Jogos Online ✅\n🌐Conexão de alta velocidade✅\n🚫⏬Proibido Torrent🚫\n⏳Válido por 2D\nApp ou jogo não abre? ⬇️\nSUPORTE / DÚVIDAS E FEEDBACK \n>> t.me/linssh",
+        "customServerMessage": ""
+    }
+}
+
+==============================
+code : @HABIBI_1ST and @NullptrO
+
+Enjoy!

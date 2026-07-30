@@ -1,0 +1,43 @@
+HABIBIxNULLPTRO HTTP INJECTOR SCRIPT
+==============================
+
+{
+    "v2rTlsSni": "app.tim.com.br",
+    "isDefaultRoute": true,
+    "v2rVlessSecurity": "none",
+    "customDns1": "",
+    "v2rTleSecurityType": "tls",
+    "v2rHttpHost": "gjishtksobu.map.azionedge.net",
+    "isConfigLock": true,
+    "v2rNetwork": "xhttp",
+    "dnsType": 3,
+    "v2rQuicSecurity": "none",
+    "v2rKcpHeaderType": "none",
+    "v2rHttpPath": "/",
+    "configExpiryTimestamp": 0,
+    "configTimestamp": 0,
+    "v2rAlterId": "0",
+    "v2rTcpHeaderType": "none",
+    "v2rCoreType": "xray",
+    "configMessage": "🔥 *Arquivo Grátis!* 🔥\n\nAcesse nosso grupo no Telegram e receba diariamente arquivos e aplicativos de VPN gratuito!📲\n\nLink do grupo: https://t.me/melhor_internetvpn",
+    "configLockMobileOperatorId": "",
+    "v2rFragmentEnabled": false,
+    "v2rTleFingerprintType": "chrome",
+    "customDns2": "",
+    "configSalt": "",
+    "v2rPort": "443",
+    "v2rHost": "179.191.168.33",
+    "v2rProtocol": "vless",
+    "v2rUserId": "5e4ce78a-75e5-442c-b85e-d79e19df7a77",
+    "configVersionCode": 0,
+    "v2rIsGuiMode": true,
+    "v2rTlsAllowInsecure": true,
+    "v2rMuxEnabled": false,
+    "v2rQuicHeaderType": "none",
+    "isPublicKey": false
+}
+
+==============================
+code : @HABIBI_1ST and @NullptrO
+
+Enjoy!

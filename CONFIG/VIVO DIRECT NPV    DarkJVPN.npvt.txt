@@ -1,0 +1,46 @@
+HABIBIxNULLPTRO NPVT SCRIPT
+==============================
+
+{
+    "name": "VIVO DIRECT NPV 🇧🇷 DarkJVPN",
+    "address": "104.26.12.205:80",
+    "type": "SSH",
+    "sshConfig": {
+        "sshConfigType": "SSH-Payload",
+        "remarks": "VIVO DIRECT NPV 🇧🇷 DarkJVPN",
+        "sshHost": "104.26.12.205",
+        "sshPort": 80,
+        "sshUsername": "seuusuario",
+        "sshPassword": "suasenha",
+        "sni": "",
+        "tlsVersion": "DEFAULT",
+        "httpProxy": "",
+        "authenticateProxy": false,
+        "proxyUsername": "",
+        "proxyPassword": "",
+        "payload": "GET / [split]HTTP/1.1 [crlf]Host: novo.mobpsicho.xyz[crlf]Upgrade: Websocket[crlf]X-Client: NPV[crlf][crlf]",
+        "dnsTTMode": "UDP",
+        "dnsServer": "",
+        "nameserver": "",
+        "publicKey": "",
+        "udpgwPort": 7300,
+        "udpgwTransparentDNS": true
+    },
+    "lockConfig": {
+        "version": 1,
+        "isLocked": false,
+        "password": "",
+        "onlyMobileNetwork": false,
+        "blockRootedAndJailbroken": true,
+        "onlyOfficialStores": false,
+        "expiryDate": "",
+        "deviceIds": "",
+        "message": "<h4><font color=\"blue\">@DarkJVPN VIVO DIRECT NPV 🇧🇷</font><font color=\"gray\"> https://t.me/DarkJVPNSSHnovoBot </font><font color=\"red\">Clique no Link do Bot do Telegram para testar ou comprar.</font></h4>",
+        "customServerMessage": ""
+    }
+}
+
+==============================
+code : @HABIBI_1ST and @NullptrO
+
+Enjoy!
