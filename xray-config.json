@@ -10,6 +10,12 @@
             "settings": {
                 "udp": true
             }
+        },
+        {
+            "listen": "127.0.0.1",
+            "port": 1081,
+            "protocol": "http",
+            "settings": {}
         }
     ],
     "outbounds": [
